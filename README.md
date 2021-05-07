@@ -1,6 +1,5 @@
-<div align="center">
-        ##   ! Hola !     👋              Soy Ana Martínez :woman:
-</div>
+ ##                                  ! Hola !     👋              Soy Ana Martínez :woman:
+
 <div align="center">
   <img src="https://github.com/AnaMartinez040816/AnaMartinez040816/blob/main/assets/name.gif?raw=true" alt="AnaMartinez" width="494"/>
 </div>
