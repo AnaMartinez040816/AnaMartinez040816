@@ -6,7 +6,7 @@
 
 ## Estudiante de Fron-end developer en Laboratoria
 
-Deseo hacer más facil la vida de las personas con el uso de la programación y de la planeación pues con estas herramientas se pueden hacer cosas in-crei-bles :zap:
+Deseo hacer más fácil y emocionante la vida de las personas con el uso de la programación y de la planeación pues con estas herramientas se pueden hacer cosas in-crei-bles :zap:
 
 
 ## Herramientas
