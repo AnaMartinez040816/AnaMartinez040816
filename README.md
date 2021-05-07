@@ -1,7 +1,7 @@
 #                      ! Hola !     👋                Soy Ana Martínez :woman:
 
 <div align="center">
-  <img src="https://github.com/AnaMartinez040816/AnaMartinez040816/assets/name.gif" alt="AnaMartinez" width="494"/>
+  <img src="https://github.com/AnaMartinez040816/AnaMartinez040816/blob/main/assets/name.gif?raw=true" alt="AnaMartinez" width="494"/>
 </div>
 
 ## Estudiante de Fron-end developer en Laboratoria
