@@ -6,7 +6,9 @@
 
 ## Estudiante de Fron-end developer en Laboratoria
 
-Apasionada de la programación y de la planeación, con estas herramientas se pueden hacer cosas in-crei-bles.  :zap:
+:zap: Apasionada de la programación y de la planeación :zap:
+:zap: Con estas herramientas se pueden hacer cosas in-crei-bles :zap:
+:zap: Los retos son como rompecabezas :zap: 
 
 
 
@@ -23,6 +25,8 @@ Apasionada de la programación y de la planeación, con estas herramientas se pu
 :star:  Git
 <br>
 :star:  Firebase
+<br>
+:star:  Metodología Ágil
 
 
 ## Estudiando actualmente
