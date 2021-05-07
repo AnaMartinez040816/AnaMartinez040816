@@ -6,10 +6,7 @@
 
 ## Estudiante de Fron-end developer en Laboratoria
 
-:zap: Apasionada de la programación y de la planeación :zap:
-:zap: Con estas herramientas se pueden hacer cosas in-crei-bles :zap:
-:zap: Los retos son como rompecabezas :zap: 
-
+Deseo hacer más facil la vida de las personas con el uso de la programación y de la planeación pues con estas herramientas se pueden hacer cosas in-crei-bles :zap:
 
 
 ## Herramientas
