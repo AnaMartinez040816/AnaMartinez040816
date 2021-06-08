@@ -4,7 +4,7 @@
   <img src="https://github.com/AnaMartinez040816/AnaMartinez040816/blob/main/assets/name.gif?raw=true" alt="AnaMartinez" width="494"/>
 </div>
 
-## Estudiante de Fron-end developer en Laboratoria
+## Estudié Fron-end developer en Laboratoria
 
 Deseo hacer más fácil y emocionante la vida de las personas con el uso de la programación y de la planeación pues con estas herramientas se pueden hacer cosas in-crei-bles :bell:
 
@@ -24,10 +24,7 @@ Deseo hacer más fácil y emocionante la vida de las personas con el uso de la p
 :star:  Firebase
 <br>
 :star:  Metodología Ágil
-
-
-## Estudiando actualmente
-
+<br>
 :dizzy: React
 <br>
 :dizzy: Node JS
